@@ -21,7 +21,7 @@ nav a{
   color: $brown-primary;
   text-decoration: none;
   font-family: $marck;
-  font-size: 14px;
-  line-height: 1.2;
+  font-size: 20px;
+  line-height: 1.3;
 }
 </style>
