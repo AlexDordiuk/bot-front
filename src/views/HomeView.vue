@@ -10,7 +10,7 @@ const counter1 = ref(0);
     <div class="container">
       <div class="top-container-box d-flex justify-content-between">
         <div class="small-card-item">
-          <img src="public/assets/photo-1.png" alt="photo 1">
+          <img src="../assets/img/photo-1.png" alt="photo 1">
           <p class="title text-center">Лляна олія</p>
           <div class="d-flex justify-content-around align-items-center">
             <span>100мл - 100грн</span>
@@ -27,7 +27,7 @@ const counter1 = ref(0);
           <button type="button" class="more-btn">детальніше</button>
         </div>
         <div class="small-card-item">
-          <img src="public/assets/photo-1.png" alt="photo 1">
+          <img src="../assets/img/photo-1.png" alt="photo 1">
           <p class="title text-center">Лляна олія</p>
           <div class="d-flex justify-content-around align-items-center">
             <span>100мл - 100грн</span>
